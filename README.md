@@ -1,1 +1,1 @@
-# Xplore-DSALGO
+# XploreAlgo
